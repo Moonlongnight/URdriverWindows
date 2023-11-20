@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="其他">
+      <UniqueIdentifier>{c5b746be-00a0-4370-bd1a-8803eb0f3328}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="运动学和姿态转换">
+      <UniqueIdentifier>{2dd5afef-20ad-4d1a-b76b-5d738eb6aa37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="通信和控制">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="函数">
+      <UniqueIdentifier>{f578a88f-b3f5-4acc-8f66-f1bcd352ca6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="automaticAnalyseParameter">
+      <UniqueIdentifier>{8b99599d-8b0f-466e-9a29-5ef63dab48b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="commonUse">
+      <UniqueIdentifier>{b3f2d0b2-73d7-4093-9d13-2ad28f132571}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="trajectory planing">
+      <UniqueIdentifier>{c467be06-29e9-4c71-8779-fea609af0c86}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="controlReal.h">
+      <Filter>通信和控制</Filter>
+    </ClInclude>
+    <ClInclude Include="fileOpration.h">
+      <Filter>通信和控制</Filter>
+    </ClInclude>
+    <ClInclude Include="ur_driver.h">
+      <Filter>通信和控制</Filter>
+    </ClInclude>
+    <ClInclude Include="socket.h">
+      <Filter>通信和控制</Filter>
+    </ClInclude>
+    <ClInclude Include="Quaternion.h">
+      <Filter>运动学和姿态转换</Filter>
+    </ClInclude>
+    <ClInclude Include="RotateVector.h">
+      <Filter>运动学和姿态转换</Filter>
+    </ClInclude>
+    <ClInclude Include="transOrientation.h">
+      <Filter>运动学和姿态转换</Filter>
+    </ClInclude>
+    <ClInclude Include="URPose.h">
+      <Filter>其他</Filter>
+    </ClInclude>
+    <ClInclude Include="Rate.h">
+      <Filter>其他</Filter>
+    </ClInclude>
+    <ClInclude Include="trans.h">
+      <Filter>其他</Filter>
+    </ClInclude>
+    <ClInclude Include="ur_kinetic.h">
+      <Filter>运动学和姿态转换</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>其他</Filter>
+    </ClInclude>
+    <ClInclude Include="checkfp.h">
+      <Filter>commonUse</Filter>
+    </ClInclude>
+    <ClInclude Include="getLineNumber.h">
+      <Filter>commonUse</Filter>
+    </ClInclude>
+    <ClInclude Include="automatic_interpolate_p.h">
+      <Filter>automaticAnalyseParameter</Filter>
+    </ClInclude>
+    <ClInclude Include="absd.h">
+      <Filter>commonUse</Filter>
+    </ClInclude>
+    <ClInclude Include="automatic_getIKsolution.h">
+      <Filter>automaticAnalyseParameter</Filter>
+    </ClInclude>
+    <ClInclude Include="automatic_calReachPercent.h">
+      <Filter>automaticAnalyseParameter</Filter>
+    </ClInclude>
+    <ClInclude Include="automatic_pieceWise.h">
+      <Filter>automaticAnalyseParameter</Filter>
+    </ClInclude>
+    <ClInclude Include="vectorOperation.h">
+      <Filter>commonUse</Filter>
+    </ClInclude>
+    <ClInclude Include="automatic_pieceResult_Struct.h">
+      <Filter>automaticAnalyseParameter</Filter>
+    </ClInclude>
+    <ClInclude Include="automatic_TARGET_POINTS.h">
+      <Filter>通信和控制</Filter>
+    </ClInclude>
+    <ClInclude Include="automatic_SHEET.h">
+      <Filter>automaticAnalyseParameter</Filter>
+    </ClInclude>
+    <ClInclude Include="SNG.h">
+      <Filter>commonUse</Filter>
+    </ClInclude>
+    <ClInclude Include="linearWithParabola.h">
+      <Filter>trajectory planing</Filter>
+    </ClInclude>
+    <ClInclude Include="LSPB.h">
+      <Filter>trajectory planing</Filter>
+    </ClInclude>
+    <ClInclude Include="get_speedj_str.h">
+      <Filter>trajectory planing</Filter>
+    </ClInclude>
+    <ClInclude Include="get_stopj_str.h">
+      <Filter>trajectory planing</Filter>
+    </ClInclude>
+    <ClInclude Include="generate_speedj_code.h">
+      <Filter>trajectory planing</Filter>
+    </ClInclude>
+    <ClInclude Include="movel_Test.h">
+      <Filter>trajectory planing</Filter>
+    </ClInclude>
+    <ClInclude Include="analyse_test1.h">
+      <Filter>函数</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

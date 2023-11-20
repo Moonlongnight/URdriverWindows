@@ -1,0 +1,149 @@
+﻿  main.cpp
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\ur_driver.h(643,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\analyse_test1.h(123,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\analyse_test1.h(239,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\analyse_test1.h(232,7): warning C4101: “buf”: 未引用的局部变量
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_calReachPercent.h(49,65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_calReachPercent.h(103,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_interpolate_p.h(78,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_interpolate_p.h(86,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(109,11): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(110,19): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(111,13): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(112,9): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(116,19): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(117,13): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(118,9): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(123,16): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(129,13): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(129,40): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(129,67): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(130,7): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(130,34): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(130,61): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(169,12): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(170,20): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(171,18): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(172,10): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(176,20): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(177,18): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(178,10): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(183,17): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(184,14): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(184,41): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(184,68): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(185,8): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(185,35): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_getIKsolution.h(185,62): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_SHEET.h(26,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_SHEET.h(33,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_SHEET.h(42,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_SHEET.h(49,3): warning C4551: 缺少参数列表的函数调用
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_TARGET_POINTS.h(52,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(70,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(76,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(83,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(91,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(99,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(102,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(119,1): warning C4010: 单行注释包含行继续符
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(120,1): warning C4010: 单行注释包含行继续符
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(121,1): warning C4010: 单行注释包含行继续符
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(130,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(145,1): warning C4010: 单行注释包含行继续符
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(146,1): warning C4010: 单行注释包含行继续符
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(147,1): warning C4010: 单行注释包含行继续符
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(148,1): warning C4010: 单行注释包含行继续符
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(149,1): warning C4010: 单行注释包含行继续符
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(157,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(163,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(194,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(225,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(263,1): warning C4010: 单行注释包含行继续符
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(265,37): warning C4244: “参数”: 从“_Ty”转换到“const unsigned int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(266,74): warning C4244: “参数”: 从“_Ty”转换到“const unsigned int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(267,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(272,39): warning C4244: “参数”: 从“_Ty”转换到“const unsigned int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(272,70): warning C4244: “参数”: 从“_Ty”转换到“const unsigned int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(278,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(296,1): warning C4010: 单行注释包含行继续符
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(297,1): warning C4010: 单行注释包含行继续符
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(298,1): warning C4010: 单行注释包含行继续符
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(307,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(342,27): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(370,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(405,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(425,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(434,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(453,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\linearWithParabola.h(474,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\generate_speedj_code.h(55,1): warning C4010: 单行注释包含行继续符
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\generate_speedj_code.h(56,1): warning C4010: 单行注释包含行继续符
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\generate_speedj_code.h(57,1): warning C4010: 单行注释包含行继续符
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\generate_speedj_code.h(66,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(37,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(47,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(55,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(26,9): warning C4101: “d_temp”: 未引用的局部变量
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(25,6): warning C4101: “i_temp”: 未引用的局部变量
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(105,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(113,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(121,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(131,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(139,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(147,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(182,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(214,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(263,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(278,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(281,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(292,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(296,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(325,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(332,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(335,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(343,25): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(344,32): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(345,13): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(391,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(411,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\LSPB.h(443,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(81,10): warning C4101: “opt_double”: 未引用的局部变量
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(79,8): warning C4101: “opt_ch”: 未引用的局部变量
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(470,8): warning C4101: “buf”: 未引用的局部变量
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(577,12): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(578,20): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(579,14): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(580,10): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(584,20): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(585,14): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(586,10): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(593,8): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(594,9): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(596,21): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(600,20): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(663,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(671,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(743,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(751,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(802,11): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(1469,27): warning C4244: “=”: 从“std::streamoff”转换到“long”，可能丢失数据
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\controlReal.h(1487,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fx53v\Desktop\文件夹\kaoyan\毕业设计\陈明销\资料\ur3driverWindows\automatic_SHEET.h(50): warning C4715: “automatic_sheet::matchWithTurnAngle”: 不是所有的控件路径都返回值
+  ur3driverWindows.vcxproj -> C:\Users\fx53v\Desktop\123\Debug\ur3driverWindows.exe
